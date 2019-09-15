@@ -8,7 +8,7 @@ _"Hey, this is me, Rogtilop, I guess this is my page that represents me."_
 
 >_"Oh yeah, all my meaningful contributions have been for collegiate group projects, usually universities don't like you sharing that stuff, so I guess I have nothing great to share in this section yet. I guess there are these mediocre repositories"_
 
-### Mediocre Repositories
+### My Mediocre Repositories
 
 [hello-world](https://github.com/Rogtilop/hello-world) - Me messing around to learn github (for a class)
 
