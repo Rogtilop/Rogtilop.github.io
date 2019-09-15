@@ -1,5 +1,5 @@
 # This is my Page
-_"Hey, this is me, Rogtilop, I guesse this is my page that represents me, hopefully i can fill it with some interesting things"_
+_"Hey, this is me, Rogtilop, I guess this is my page that represents me."_
 
 ## My Cool Repositories
 ### **ERROR, Repositories Not Found**
@@ -24,7 +24,8 @@ https://github.com/EbookFoundation/free-programming-books
 ### MTGA Tracker
 This a great open source project for tracking cards in "Magic the Gathering: Arena"
 
+>_"As a collegiate eSports competitor, this stuff is really useful."_
+
 https://github.com/mtgatracker/mtgatracker
 
->_"As a collegiate eSports competitor, this stuff is really useful."_
 
