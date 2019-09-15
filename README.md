@@ -1,40 +1,31 @@
 # This is my Page
-**I currently am not sure what to do with it, but I guess you can look at this cool premade thing they gave me.**
+_"Hey, this is me, Rogtilop, I guess this is my page that represents me."_
 
-## Welcome to GitHub Pages
+## My Cool Repositories
+### **ERROR, Repositories Not Found**
+>_"Wait, there was supposed to be something there..."_
 
-You can use the [editor on GitHub](https://github.com/Rogtilop/Rogtilop.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+>_"Oh yeah, all my meaningful contributions have been for collegiate group projects, usually universities don't like you sharing that stuff, so I guess I have nothing to share in this section yet."_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+>_"I guess I could share these cool repositories of other people."_
 
-### Markdown
+## Other People's Cool Repositories
+_**Recommendations as of 9/15/16**_
+### Godot
+A great little open-source game engine perfect for game jams
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://github.com/godotengine/godot
 
-```markdown
-Syntax highlighted code block
+### E-Book Foundation
+A great library of programming books
 
-# Header 1
-## Header 2
-### Header 3
+https://github.com/EbookFoundation/free-programming-books
 
-- Bulleted
-- List
+### MTGA Tracker
+This a great open source project for tracking cards in "Magic the Gathering: Arena"
 
-1. Numbered
-2. List
+>_"As a collegiate eSports competitor, this stuff is really useful."_
 
-**Bold** and _Italic_ and `Code` text
+https://github.com/mtgatracker/mtgatracker
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rogtilop/Rogtilop.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
