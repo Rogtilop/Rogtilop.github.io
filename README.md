@@ -1,42 +1,25 @@
 # This is my Page
-**I currently am not sure what to do with it, but I guess you can look at this cool premade thing they gave me.**
+_"Hey, this is me, Rogtilop, I guesse this is my page that represents me, hopefully i can fill it with some interesting things"_
 
-```markdown
-## Welcome to GitHub Pages
+## My Cool Repositories
+![Image](https://www.publicdomainpictures.net/pictures/280000/velka/not-found-image-15383864787lu.jpg)
+_"Wait, there was supposed to be something there..."_
+_"Oh yeah, all my meaningful contributions have been for collegiate group projects, usually universities don't like you sharing that stuff, so I guess I have nothing to share in this section yet."_
 
-You can use the [editor on GitHub](https://github.com/Rogtilop/Rogtilop.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+_"I guess I could share these cool repositories of other people."_
+## Other People's Cool Repositories
+_**Recommendations as of 9/15/16**_
+### Godot
+A great little open-source game engine perfect for game jams
+https://github.com/godotengine/godot
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### E-Book Foundation
+A great library of programming books
+https://github.com/EbookFoundation/free-programming-books
 
-### Markdown
+### MTGA Tracker
+This a great open source project for tracking cards in "Magic the Gathering: Arena"
+_"As a collegiate eSports competitor, this stuff is really useful."_
+https://github.com/mtgatracker/mtgatracker
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rogtilop/Rogtilop.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-```
