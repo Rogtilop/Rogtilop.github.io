@@ -12,7 +12,7 @@ _"Hey, this is me, Rogtilop, I guess this is my page that represents me."_
 
 [hello-world](https://github.com/Rogtilop/hello-world) - Me messing around to learn github (for a class)
 
-[Rogtilop.github.io](https://github.com/Rogtilop/Rogtilop.github.io) - [This custom page's repository]
+[Rogtilop.github.io](https://github.com/Rogtilop/Rogtilop.github.io) - This custom page's repository
 
 >_"I guess I could share these cool repositories from other people."_
 
