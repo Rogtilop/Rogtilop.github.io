@@ -3,7 +3,7 @@ _"Hey, this is me, Rogtilop, I guesse this is my page that represents me, hopefu
 
 ## My Cool Repositories
 ![Image](https://www.publicdomainpictures.net/pictures/280000/velka/not-found-image-15383864787lu.jpg)
-_"Wait, there was supposed to be something there..."_
+_**"Wait, there was supposed to be something there..."**_
 
 _"Oh yeah, all my meaningful contributions have been for collegiate group projects, usually universities don't like you sharing that stuff, so I guess I have nothing to share in this section yet."_
 
@@ -13,11 +13,9 @@ _**Recommendations as of 9/15/16**_
 ### Godot
 A great little open-source game engine perfect for game jams
 https://github.com/godotengine/godot
-
 ### E-Book Foundation
 A great library of programming books
 https://github.com/EbookFoundation/free-programming-books
-
 ### MTGA Tracker
 This a great open source project for tracking cards in "Magic the Gathering: Arena"
 _"As a collegiate eSports competitor, this stuff is really useful."_
