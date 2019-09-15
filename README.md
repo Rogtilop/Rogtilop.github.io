@@ -18,7 +18,7 @@ _"Hey, this is me, Rogtilop, I guess this is my page that represents me."_
 
 
 ## Other People's Cool Repositories
-_**Recommendations updated 9/15/16**_
+_**Recommendations updated 9/15/19**_
 ### Godot
 A great little open-source game engine perfect for game jams
 
