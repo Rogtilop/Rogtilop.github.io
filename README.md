@@ -3,7 +3,7 @@ _"Hey, this is me, Rogtilop, I guess this is my page that represents me."_
 
 
 ## My Cool Repositories
-### **ERROR - Repositories Not Found**
+### **ERROR - Cool Repositories Not Found**
 >_"Wait, there was supposed to be something there..."_
 
 >_"Oh yeah, all my meaningful contributions have been for collegiate group projects, usually universities don't like you sharing that stuff, so I guess I have nothing great to share in this section yet. I guess there are these mediocre repositories"_
