@@ -14,18 +14,18 @@ _**Recommendations as of 9/15/16**_
 ### Godot
 A great little open-source game engine perfect for game jams
 
-https://github.com/godotengine/godot
+[https://github.com/godotengine/godot](https://github.com/godotengine/godot)
 
 ### E-Book Foundation
 A great library of programming books
 
-https://github.com/EbookFoundation/free-programming-books
+[https://github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
 ### MTGA Tracker
 This a great open source project for tracking cards in "Magic the Gathering: Arena"
 
 >_"As a collegiate eSports competitor, this stuff is really useful."_
 
-https://github.com/mtgatracker/mtgatracker
+[https://github.com/mtgatracker/mtgatracker](https://github.com/mtgatracker/mtgatracker)
 
 
